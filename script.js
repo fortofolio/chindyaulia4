@@ -5,10 +5,10 @@ audio.play();
 let title = document.querySelector('.title');
 let count = 0;
 
-let sliceWidth = 15;
-let sliceHeight = 15;
-let rows = 20;
-let cols = 20;
+let sliceWidth = 30;
+let sliceHeight = 30;
+let rows = 10;
+let cols = 10;
 
 let imageUrl1 = './images/img1.jpg';
 let container1 = document.querySelector('.image-container1');
