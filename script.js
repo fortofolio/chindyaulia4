@@ -1,6 +1,6 @@
 const linkmp3 = document.querySelector('#linkmp3');
 audio = new Audio('' + linkmp3.src);
-audio.play();
+// audio.play();
 
 let title = document.querySelector('.title');
 let count = 0;
